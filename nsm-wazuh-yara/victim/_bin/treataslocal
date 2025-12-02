@@ -1,0 +1,4 @@
+yara
+/usr/bin/which
+which
+ls
